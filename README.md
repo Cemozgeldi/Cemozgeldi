@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/cozgeldi" target="blank"><img src="https://img.shields.io/twitter/follow/cozgeldi?logo=twitter&style=for-the-badge" alt="cozgeldi" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5,CSS,JavaScript,SQL,Python**
+- 🌱 I’m currently learning **HTML5,CSS,JavaScript,React,React Native**
 
-- 📫 How to reach me **cemozgeldi@gmail.com**
+- 📫 How to reach me **cem@cemozgeldi.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
